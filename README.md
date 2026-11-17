@@ -2,15 +2,19 @@
 
 A comprehensive, end-to-end retail store data auditing, cleaning, and multi-dimensional business intelligence project using **T-SQL (SQL Server)** and **Power BI**.
 
+## 🔗 Live Interactive Dashboard
+
+[View the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYTMxMTI2YmEtNDhhYi00MGQ5LTk4NDktYTUwY2ZkMjE4M2M4IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
 ---
 
 ## 📂 Repository Structure & Project Files
 
 This repository contains all necessary resources to run, review, and interact with the project:
 
-* 📊 **Interactive Power BI Report:** [`Retail Stores Sales Analytics.pbix`](./Retail%20Stores%20Sales%20Analytics.pbix) *(Download & open in Power BI Desktop for full interactivity)*
-* 📜 **SQL Cleaning Script:** [`retail_store_sales_cleaning.sql`](./retail_store_sales_cleaning.sql) *(T-SQL script for data auditing, cleaning, and transformation)*
-* 🖼️ **Executive Dashboards:** High-resolution preview screenshots included below.
+- 📊 **Interactive Power BI Report:** [`Retail Stores Sales Analytics.pbix`](./Retail%20Stores%20Sales%20Analytics.pbix) *(Download & open in Power BI Desktop for full interactivity)*
+- 📜 **SQL Cleaning Script:** [`retail_store_sales_cleaning.sql`](./retail_store_sales_cleaning.sql) *(T-SQL script for data auditing, cleaning, and transformation)*
+- 🖼️ **Executive Dashboards:** High-resolution preview screenshots included below.
 
 ---
 
